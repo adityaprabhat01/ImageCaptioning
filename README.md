@@ -1,3 +1,3 @@
 # ImageCaptioning
 Generated captions for the input image.
->Iintegrated beam search with the text generator but needs improvement.
+>Iintegrated beam search algorithm but needs improvement.
